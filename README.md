@@ -10,8 +10,10 @@ The Metropolitan Museum of Art provides select datasets of information on more t
 At this time, the datasets are available in CSV format, encoded in UTF-8. While UTF-8 is the standard for multilingual character encodings, it is not correctly interpreted by Excel on a Mac. Users of Excel on a Mac can convert the UTF-8 to UTF-16 so the file can be imported correctly.
 
 ## Additional usage guidelines
-### Images not included
-Images are not included and are not part of the dataset. Companion artworks listed in the dataset covered by the policy are identified in the [Collection section](http://www.metmuseum.org/art/collection) of the Museum’s website  with the Creative Commons Zero (CC0) icon. 
+
+### Images not included (but linked to)
+
+Approximately 50% of the images flagged as `Is Public Domain` contain a link to a downloadable image in the `Object Image` column. In total there are about 445, 610 objects total that have been marked as public domain. As of this writing slightly less than 200, 000 have image URLs. That's because the remaining images have weird Unicode characters in their filenames which blah blah blah programming talk blah blah blah character encoding blah blah blah we'll get the rest shortly. In the meantime, 200, 000 images! Of public domain things!
 
 For more details on how to use images of artworks in The Metropolitan Museum of Art’s collection, please visit our [Open Access](http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources) page.
 
