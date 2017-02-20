@@ -13,7 +13,7 @@ At this time, the datasets are available in CSV format, encoded in UTF-8. While 
 
 ### Images not included (but linked to)
 
-Approximately 50% of the images flagged as `Is Public Domain` contain a link to a downloadable image in the `Object Image` column. In total there are about 445, 610 objects total that have been marked as public domain. As of this writing slightly less than 200, 000 have image URLs. That's because the remaining images have weird Unicode characters in their filenames which blah blah blah programming talk blah blah blah character encoding blah blah blah we'll get the rest shortly. In the meantime, 200, 000 images! Of public domain things!
+Of the 200, 074 images flagged as `Is Public Domain` all but 494 contain a link to a downloadable image in the `Object Image` column. In total there are 553, 901 objects described in the `MetImages.csv` files. The 494 objects with missing image URLs are the result of weird Unicode characters in their filenames which blah blah blah programming talk blah blah blah character encoding blah blah blah we'll get the rest shortly. In the meantime, 199, 580 images! Of public domain things!
 
 For more details on how to use images of artworks in The Metropolitan Museum of Art’s collection, please visit our [Open Access](http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources) page.
 
